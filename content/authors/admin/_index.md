@@ -64,7 +64,7 @@ education:
     date_start: 2006-10-01
     date_end: 2009-07-01
     summary: |
-     First Class
+      First Class
 
 work:
   - position: Reader in Politics
