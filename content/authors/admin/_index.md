@@ -1,16 +1,10 @@
 ---
 # Display name
-title: Alex Johnson
-
-# Name pronunciation (optional)
-name_pronunciation: ''
+title: Ursula Hackett
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
+first_name: Ursula
+last_name: Hackett
 
 # Status emoji
 status:
@@ -23,66 +17,54 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Reader in Politics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Royal Holloway, University of London
+    url: [https://ai.meta.com/](https://pure.royalholloway.ac.uk/en/persons/ursula-hackett/)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:Ursula.Hackett@rhul.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/uhackett.bsky.social
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/ursula-hackett-97a46b179/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.co.uk/citations?user=OOr-ZFcAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-1768-9006
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - American Political Development (APD)
+  - Public policy
+  - Federalism
+  - Law and politics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: DPhil in Politics
+    institution: University of Oxford
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2011
+    date_end: 2013
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Winner of the *Sir Walter Bagehot Prize* for the best thesis in the field of Government and Public Administration (Political Studies Association, 2015).
+  - area: MPHil in Politics: Comparative Government
+    institution: University of Oxford
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+    date_start: 2009
+    date_end: 2011
+  - area: Bachelor of Arts in Philosophy, Politics and Economics
+    institution: University of Oxford
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2006
+    date_end: 2019
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
+     First Class
 work:
   - position: Senior AI Research Scientist
     company_name: Meta AI
