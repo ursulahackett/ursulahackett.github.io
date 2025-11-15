@@ -111,57 +111,57 @@ work:
 awards:
   - title: Midcareer Research Fellowship
     url: https://www.thebritishacademy.ac.uk/
-    date: '2023'
+    date: 2023
     awarder: British Academy
     icon: hero/currency-pound
   - title: Richard E. Neustadt Best Book Award (America’s Voucher Politics)
     url: https://ukpsaapg.co.uk/
-    date: '2022'
+    date: 2022
     awarder: American Politics Group, Political Studies Association
     icon: hero/trophy
   - title: Theodore J. Lowi Prize for the Best Article published at any time in *Policy Studies Journal*
     url: https://apsanet.org/membership/organized-sections/section4/
-    date: '2022'
+    date: 2022
     awarder: American Political Science Association, Public Policy Section
     icon: hero/trophy
   - title: Education Politics and Policy Best Book Award, (America’s Voucher Politics)
     url: https://connect.apsanet.org/s51/
-    date: '2021'
+    date: 2021
     awarder: American Political Science Association, Education Policy Section
     icon: hero/trophy
   - title: Sir Bernard Crick Prize for Outstanding Teaching
     url: https://www.psa.ac.uk/
-    date: '2020'
+    date: 2020
     awarder: Political Studies Association 
     icon: hero/trophy
   - title: Teaching Excellence Prize
     url: https://www.royalholloway.ac.uk/
-    date: '2020'
+    date: 2020
     awarder: Royal Holloway
     icon: hero/trophy
   - title: “Golden Apple” Award
     url: https://www.su.rhul.ac.uk/societies/a-z/pir/
-    date: '2018'
+    date: 2018
     awarder: Royal Holloway Politics and International Relations Society 
     icon: hero/trophy
   - title: Teaching Excellence Commendation
     url: https://www.royalholloway.ac.uk/
-    date: '2017'
+    date: 2017
     awarder: Royal Holloway
     icon: hero/trophy
   - title: Postdoctoral Research Fellowship
     url: https://www.thebritishacademy.ac.uk/
-    date: '2016'
+    date: 2016
     awarder: British Academy
     icon: hero/currency-pound
   - title: Sir Walter Bagehot Prize for the best dissertation in Government and Public Administration
     url: https://www.psa.ac.uk/
-    date: '2015'
+    date: 2015
     awarder: Political Studies Association 
     icon: hero/trophy
   - title: Richard E. Neustadt Prize for the best paper presented by a postgraduate student at the American Politics Group Conference
     url: https://ukpsaapg.co.uk/
-    date: '2014'
+    date: 2014
     awarder: American Politics Group, Political Studies Association
     icon: hero/trophy
 ---
