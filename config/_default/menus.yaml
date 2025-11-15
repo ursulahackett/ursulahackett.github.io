@@ -22,9 +22,9 @@ main:
   - name: Podcasting
     url: podcasts/
     weight: 60
- - name: CV
+  - name: CV
     url: cv/
     weight: 70
- - name: Contact
+  - name: Contact
     url: contact/
     weight: 80
