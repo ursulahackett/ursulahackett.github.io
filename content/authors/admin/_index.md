@@ -7,8 +7,8 @@ first_name: Ursula
 last_name: Hackett
 
 # Status emoji
-status:
-  icon: 🚀
+# status:
+#  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -49,20 +49,20 @@ education:
   - area: DPhil in Politics
     institution: University of Oxford
     icon: ""
-    date_start: 2011
-    date_end: 2013
+    date_start: 2011-10-01
+    date_end: 2013-10-01
     summary: |
       Winner of the Sir Walter Bagehot Prize for the best thesis in the field of Government and Public Administration (Political Studies Association, 2015)
   - area: "MPHil in Politics: Comparative Government"
     institution: University of Oxford
     icon: ""
-    date_start: 2009
-    date_end: 2011
+    date_start: 2009-10-01
+    date_end: 2011-09-30
   - area: Bachelor of Arts in Philosophy, Politics and Economics
     institution: University of Oxford
     icon: ""
-    date_start: 2006
-    date_end: 2019
+    date_start: 2006-10-01
+    date_end: 2009-07-01
     summary: |
      First Class
 
@@ -71,38 +71,38 @@ work:
     company_name: Royal Holloway, University of London
     company_url: 'https://pure.royalholloway.ac.uk/en/persons/ursula-hackett/'
     icon: ''
-    date_start: 2022
+    date_start: 2022-01-01
     date_end: ''
   - position: Senior Lecturer in Politics
     company_name: Royal Holloway, University of London
     company_url: 'https://pure.royalholloway.ac.uk/en/persons/ursula-hackett/'
     icon: ''
-    date_start: 2019
-    date_end: 2022
+    date_start: 2019-01-01
+    date_end: 2022-01-01
   - position: Lecturer in Politics
     company_name: Royal Holloway, University of London
     company_url: 'https://pure.royalholloway.ac.uk/en/persons/ursula-hackett/'
     icon: ''
-    date_start: 2016
-    date_end: 2019
+    date_start: 2016-01-01
+    date_end: 2019-01-01
   - position: Junior Research Fellow in US Politics
     company_name: Rothermere American Institute, University of Oxford
     company_url: 'https://www.rai.ox.ac.uk/'
     icon: ''
-    date_start: 2013
-    date_end: 2016
+    date_start: 2013-01-01
+    date_end: 2016-01-01
   - position: Non-Stipendiary Research Fellow
     company_name: Nuffield College, University of Oxford
     company_url: 'https://www.rai.ox.ac.uk/'
     icon: ''
-    date_start: 2013
-    date_end: 2016
+    date_start: 2013-01-01
+    date_end: 2016-01-01
   - position: College Lecturer
     company_name: Christ Church and Exeter College
     company_url: 'https://www.chch.ox.ac.uk/'
     icon: ''
-    date_start: 2011
-    date_end: 201
+    date_start: 2011-01-01
+    date_end: 2012-01-01
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -116,52 +116,52 @@ awards:
     icon: hero/currency-pound
   - title: Richard E. Neustadt Best Book Award (America’s Voucher Politics)
     url: https://ukpsaapg.co.uk/
-    date: 2022
+    date: 2022-01-01
     awarder: American Politics Group, Political Studies Association
     icon: hero/trophy
   - title: Theodore J. Lowi Prize for the Best Article published at any time in *Policy Studies Journal*
     url: https://apsanet.org/membership/organized-sections/section4/
-    date: 2022
+    date: 2022-01-01
     awarder: American Political Science Association, Public Policy Section
     icon: hero/trophy
   - title: Education Politics and Policy Best Book Award, (America’s Voucher Politics)
     url: https://connect.apsanet.org/s51/
-    date: 2021
+    date: 2021-01-01
     awarder: American Political Science Association, Education Policy Section
     icon: hero/trophy
   - title: Sir Bernard Crick Prize for Outstanding Teaching
     url: https://www.psa.ac.uk/
-    date: 2020
+    date: 2020-01-01
     awarder: Political Studies Association 
     icon: hero/trophy
   - title: Teaching Excellence Prize
     url: https://www.royalholloway.ac.uk/
-    date: 2020
+    date: 2020-01-01
     awarder: Royal Holloway
     icon: hero/trophy
   - title: “Golden Apple” Award
     url: https://www.su.rhul.ac.uk/societies/a-z/pir/
-    date: 2018
+    date: 2018-01-01
     awarder: Royal Holloway Politics and International Relations Society 
     icon: hero/trophy
   - title: Teaching Excellence Commendation
     url: https://www.royalholloway.ac.uk/
-    date: 2017
+    date: 2017-01-01
     awarder: Royal Holloway
     icon: hero/trophy
   - title: Postdoctoral Research Fellowship
     url: https://www.thebritishacademy.ac.uk/
-    date: 2016
+    date: 2016-01-01
     awarder: British Academy
     icon: hero/currency-pound
   - title: Sir Walter Bagehot Prize for the best dissertation in Government and Public Administration
     url: https://www.psa.ac.uk/
-    date: 2015
+    date: 2015-01-01
     awarder: Political Studies Association 
     icon: hero/trophy
   - title: Richard E. Neustadt Prize for the best paper presented by a postgraduate student at the American Politics Group Conference
     url: https://ukpsaapg.co.uk/
-    date: 2014
+    date: 2014-01-01
     awarder: American Politics Group, Political Studies Association
     icon: hero/trophy
 ---
