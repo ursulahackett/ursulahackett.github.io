@@ -65,6 +65,7 @@ education:
     date_end: 2019
     summary: |
      First Class
+
 work:
   - position: Reader in Politics
     company_name: Royal Holloway, University of London
@@ -108,6 +109,11 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Midcareer Research Fellowship
+    url: https://www.thebritishacademy.ac.uk/
+    date: '2023'
+    awarder: British Academy
+    icon: hero/currency-pound
   - title: Richard E. Neustadt Best Book Award (America’s Voucher Politics)
     url: https://ukpsaapg.co.uk/
     date: '2022'
@@ -128,6 +134,39 @@ awards:
     date: '2020'
     awarder: Political Studies Association 
     icon: hero/trophy
+  - title: Teaching Excellence Prize
+    url: https://www.royalholloway.ac.uk/
+    date: '2020'
+    awarder: Royal Holloway
+    icon: hero/trophy
+  - title: “Golden Apple” Award
+    url: https://www.su.rhul.ac.uk/societies/a-z/pir/
+    date: '2018'
+    awarder: Royal Holloway Politics and International Relations Society 
+    icon: hero/trophy
+  - title: Teaching Excellence Commendation
+    url: https://www.royalholloway.ac.uk/
+    date: '2017'
+    awarder: Royal Holloway
+    icon: hero/trophy
+  - title: Postdoctoral Research Fellowship
+    url: https://www.thebritishacademy.ac.uk/
+    date: '2016'
+    awarder: British Academy
+    icon: hero/currency-pound
+  - title: Sir Walter Bagehot Prize for the best dissertation in Government and Public Administration
+    url: https://www.psa.ac.uk/
+    date: '2015'
+    awarder: Political Studies Association 
+    icon: hero/trophy
+  - title: Richard E. Neustadt Prize for the best paper presented by a postgraduate student at the American Politics Group
+Conference
+    url: https://ukpsaapg.co.uk/
+    date: '2014'
+    awarder: American Politics Group, Political Studies Association
+    icon: hero/trophy
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Ursula Hackett is Reader in Politics at Royal Holloway, University of London. In the academic year 2023-4 she was a British Academy Mid-Career Fellow. She is currently the Vice Dean for Research and Knowledge Exchange for the School of Law and Social Sciences.
+
+Her award-winning book, *America's Voucher Politics: How Elites Learned to Hide the State* is out with Cambridge University Press. She has published her research in journals such as *Perspectives on Politics*, *Policy Studies Journal*, *Studies in American Political Development*, *Presidential Studies Quarterly*, and *Politics and Religion*.
