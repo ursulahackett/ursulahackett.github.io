@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ursula Hackett
+title: Dr Ursula Hackett
 
 # Full name (for SEO)
 first_name: Ursula
