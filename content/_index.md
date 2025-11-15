@@ -34,11 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I specialise in the study of public policymaking and litigation in the United States, with a particular focus on religion, race, and education. My work fits broadly within the American Political Development (APD) tradition. I am currently working on a book on the politics of redistricting and how state legislators anticipate and seek to forestall legal challenges.
     design:
       columns: '1'
   - block: collection
