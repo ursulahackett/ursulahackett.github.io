@@ -159,8 +159,7 @@ awards:
     date: '2015'
     awarder: Political Studies Association 
     icon: hero/trophy
-  - title: Richard E. Neustadt Prize for the best paper presented by a postgraduate student at the American Politics Group
-Conference
+  - title: Richard E. Neustadt Prize for the best paper presented by a postgraduate student at the American Politics Group Conference
     url: https://ukpsaapg.co.uk/
     date: '2014'
     awarder: American Politics Group, Political Studies Association
