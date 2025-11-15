@@ -111,7 +111,7 @@ work:
 awards:
   - title: Midcareer Research Fellowship
     url: https://www.thebritishacademy.ac.uk/
-    date: 2023
+    date: 2023-01-01
     awarder: British Academy
     icon: hero/currency-pound
   - title: Richard E. Neustadt Best Book Award (America’s Voucher Politics)
