@@ -52,7 +52,7 @@ education:
     date_start: 2011
     date_end: 2013
     summary: |
-      Winner of the Sir Walter Bagehot Prize for the best thesis in the field of Government and Public Administration (Political Studies Association, 2015).
+      Winner of the Sir Walter Bagehot Prize.
   
   - area: MPHil in Politics: Comparative Government
     institution: University of Oxford
