@@ -22,7 +22,7 @@ role: Reader in Politics
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Royal Holloway, University of London
-    url: [https://ai.meta.com/](https://pure.royalholloway.ac.uk/en/persons/ursula-hackett/)
+    url: https://pure.royalholloway.ac.uk/en/persons/ursula-hackett/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
