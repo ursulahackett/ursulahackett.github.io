@@ -18,8 +18,6 @@ sections:
       date_format: '2006'
       # Education or Experience section first?
       is_education_first: false
-    design:
-      show_skill_percentage: false
   - block: resume-awards
     content:
       title: Awards
