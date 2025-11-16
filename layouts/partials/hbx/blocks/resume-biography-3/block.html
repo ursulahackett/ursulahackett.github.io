@@ -146,7 +146,7 @@
 {{ with ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}
   <div class="mb-12">
     {{ $i18n_about := i18n "about_me" }}
-    {{ $about_default := cond (eq $i18n_about "about_me") "Professional Summary" $i18n_about }}
+    {{ $about_default := cond (eq $i18n_about "about_me") "About me" $i18n_about }}
     {{ $about_heading := $block.content.headings.about | default $about_default }}
 
     {{ if ne $about_heading "" }}
