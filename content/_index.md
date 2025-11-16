@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/hackett_cv.pdf
       headings:
-        about: 'About test'
+        about: ''
         education: ''
         interests: ''
     design:
