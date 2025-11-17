@@ -30,7 +30,7 @@
 {{ $shape_classes := dict "circle" "rounded-full" "square" "rounded-none" "rounded" "rounded-lg" }}
 {{ $shape_class := index $shape_classes $avatar_shape | default "rounded-full" }}
 
-<div class="resume-biography py-8 px-4 sm:py-12 md:py-16 lg:py-24 xl:py-32 relative overflow-hidden">
+<div class="resume-biography py-4 px-4 sm:py-6 md:py-8 lg:py-10 xl:py-12 relative overflow-hidden">
   {{/* Add subtle top gradient for navbar transition */}}
   <div class="max-w-7xl mx-auto">
     <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-start">
@@ -145,11 +145,9 @@
         {{/* Bio Section */}}
 {{ with ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}
   <div class="mb-12">
-    {{ $i18n_about := i18n "about_me" }}
-    {{ $about_default := cond (eq $i18n_about "about_me") "About me" $i18n_about }}
-    {{ $about_heading := $block.content.headings.about | default $about_default }}
+    {{ $about_heading := $block.content.headings.about }}
 
-    {{ if ne $about_heading "" }}
+    {{ if $about_heading }}
       <div class="flex items-center gap-4 mb-8">
         <div class="flex-shrink-0 w-12 h-12 bg-primary-100 dark:bg-primary-900/50 rounded-full flex items-center justify-center">
           {{ partial "functions/get_icon" (dict "name" "identification" "attributes" "class='w-6 h-6 text-primary-600 dark:text-primary-400'") }}
@@ -161,7 +159,7 @@
     {{ end }}
 
     <div class="prose prose-lg dark:prose-invert text-gray-800 dark:text-gray-200 text-base sm:text-lg leading-relaxed">
-      <div class="bio-text" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{ end }}>
+      <div class="bio-text" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{end}}>
         {{ . }}
       </div>
     </div>
@@ -179,6 +177,7 @@
         </div>
         {{ end }}
 
+{{ if false }}
         {{/* Education Section */}}
         {{ with $person.education }}
         <div class="mb-16">
@@ -212,7 +211,9 @@
           </div>
         </div>
         {{ end }}
+        {{ end }}
 
+{{ if false }}
         {{/* Interests Section */}}
         {{ with $person.interests }}
         <div>
@@ -231,6 +232,7 @@
                            transition-all duration-200 cursor-default">
               {{ . | markdownify | emojify }}
             </span>
+            {{ end }}
             {{ end }}
           </div>
         </div>

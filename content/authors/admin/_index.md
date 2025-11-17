@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Ursula Hackett
+title: Ursula Hackett
 
 # Full name (for SEO)
 first_name: Ursula
@@ -110,12 +110,12 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Midcareer Research Fellowship
-    url: https://www.thebritishacademy.ac.uk/
+    url: https://www.thebritishacademy.ac.uk/news/thirty-eight-new-british-academy-mid-career-fellowships-awarded-to-support-outstanding-shape-researchers/
     date: 2023-01-01
     awarder: British Academy
     icon: hero/currency-pound
   - title: Richard E. Neustadt Best Book Award (America’s Voucher Politics)
-    url: https://ukpsaapg.co.uk/
+    url: /publications/vouchers/
     date: 2022-01-01
     awarder: American Politics Group, Political Studies Association
     icon: hero/trophy
@@ -125,32 +125,32 @@ awards:
     awarder: American Political Science Association, Public Policy Section
     icon: hero/trophy
   - title: Education Politics and Policy Best Book Award, (America’s Voucher Politics)
-    url: https://connect.apsanet.org/s51/
+    url: /publications/vouchers/
     date: 2021-01-01
     awarder: American Political Science Association, Education Policy Section
     icon: hero/trophy
   - title: Sir Bernard Crick Prize for Outstanding Teaching
-    url: https://www.psa.ac.uk/
+    url: /essays/
     date: 2020-01-01
     awarder: Political Studies Association 
     icon: hero/trophy
   - title: Teaching Excellence Prize
-    url: https://www.royalholloway.ac.uk/
+    url: /essays/
     date: 2020-01-01
     awarder: Royal Holloway
     icon: hero/trophy
   - title: “Golden Apple” Award
-    url: https://www.su.rhul.ac.uk/societies/a-z/pir/
+    url: /teaching/
     date: 2018-01-01
     awarder: Royal Holloway Politics and International Relations Society 
     icon: hero/trophy
   - title: Teaching Excellence Commendation
-    url: https://www.royalholloway.ac.uk/
+    url: /teaching/
     date: 2017-01-01
     awarder: Royal Holloway
     icon: hero/trophy
   - title: Postdoctoral Research Fellowship
-    url: https://www.thebritishacademy.ac.uk/
+    url: https://www.thebritishacademy.ac.uk/funding/schemes/postdoctoral-fellowships/past-awards/2016/
     date: 2016-01-01
     awarder: British Academy
     icon: hero/currency-pound
@@ -166,6 +166,10 @@ awards:
     icon: hero/trophy
 ---
 
-Ursula Hackett is Reader in Politics at Royal Holloway, University of London. In the academic year 2023-4 she was a British Academy Mid-Career Fellow. She is currently the Vice Dean for Research and Knowledge Exchange for the School of Law and Social Sciences.
+Dr Ursula Hackett is Reader in Politics at Royal Holloway, University of London. In the academic year 2023-4 she was a British Academy Mid-Career Fellow. She is currently the Vice Dean for Research and Knowledge Exchange for the School of Law and Social Sciences.
 
 Her award-winning book, *America's Voucher Politics: How Elites Learned to Hide the State* is out with Cambridge University Press. She has published her research in journals such as *Perspectives on Politics*, *Policy Studies Journal*, *Studies in American Political Development*, *Presidential Studies Quarterly*, and *Politics and Religion*.
+
+[More about me →](/about/)
+
+

@@ -1,12 +1,46 @@
 ---
 title: Publications
+type: landing
 cms_exclude: true
 
-# View.
-view: citation
+sections:
+  - block: collection
+    id: books
+    content:
+      title: Books
+      subtitle: ""
+      filters:
+        folders:
+          - publications
+        publication_type: "book"
+        exclude_future: false
+        exclude_past: false
+      count: 0          # 0 = show all
+      sort_by: "Date"
+      sort_ascending: false
+    design:
+      view: citation
+      columns: "1"
+      spacing:
+        padding: ["2rem", "0rem"]
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+  - block: collection
+    id: journal-articles
+    content:
+      title: Journal articles
+      subtitle: ""
+      filters:
+        folders:
+          - publications
+        publication_type: "article-journal"
+        exclude_future: false
+        exclude_past: false
+      count: 0
+      sort_by: "Date"
+      sort_ascending: false
+    design:
+      view: citation
+      columns: "1"
+      spacing:
+        padding: ["2rem", "0rem"]
 ---
