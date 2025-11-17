@@ -120,7 +120,7 @@ awards:
     awarder: American Politics Group, Political Studies Association
     icon: hero/trophy
   - title: Theodore J. Lowi Prize for the Best Article published at any time in *Policy Studies Journal*
-    url: https://apsanet.org/membership/organized-sections/section4/
+    url: /publications/attenuated/
     date: 2022-01-01
     awarder: American Political Science Association, Public Policy Section
     icon: hero/trophy
@@ -155,12 +155,12 @@ awards:
     awarder: British Academy
     icon: hero/currency-pound
   - title: Sir Walter Bagehot Prize for the best dissertation in Government and Public Administration
-    url: https://www.psa.ac.uk/
+    url: ""
     date: 2015-01-01
     awarder: Political Studies Association 
     icon: hero/trophy
   - title: Richard E. Neustadt Prize for the best paper presented by a postgraduate student at the American Politics Group Conference
-    url: https://ukpsaapg.co.uk/
+    url: ""
     date: 2014-01-01
     awarder: American Politics Group, Political Studies Association
     icon: hero/trophy
