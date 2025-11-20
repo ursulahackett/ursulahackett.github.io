@@ -1,0 +1,4 @@
+/* Hide tiny author avatar in publication header meta line */
+.page-body .text-gray-500.text-sm.flex.items-center.flex-wrap img.rounded-full.h-4.w-4 {
+  display: none;
+}
