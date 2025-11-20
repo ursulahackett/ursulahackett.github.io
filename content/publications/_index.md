@@ -22,8 +22,7 @@ sections:
       view: citation
       columns: "1"
       spacing:
-        padding: ["2rem", "0rem"]
-
+        padding: ["6rem", "0rem"]
   - block: collection
     id: journal-articles
     content:
@@ -43,5 +42,44 @@ sections:
       columns: "1"
       spacing:
         padding: ["2rem", "0rem"]
+  - block: collection
+    id: chapter
+    content:
+      title: Chapters in edited volumes 
+      subtitle: ""
+      filters:
+        folders:
+          - publications
+        publication_type: "chapter"
+        exclude_future: false
+        exclude_past: false
+      count: 0
+      sort_by: "Date"
+      sort_ascending: false
+    design:
+      view: citation
+      columns: "1"
+      spacing:
+        padding: ["2rem", "0rem"]    
+  - block: collection
+    id: edited-book
+    content:
+      title: Edited journal special issues 
+      subtitle: ""
+      filters:
+        folders:
+          - publications
+        publication_type: "edited-book"
+        exclude_future: false
+        exclude_past: false
+      count: 0
+      sort_by: "Date"
+      sort_ascending: false
+    design:
+      view: citation
+      columns: "1"
+      spacing:
+        padding: ["2rem", "0rem"]    
+
 ---
 
