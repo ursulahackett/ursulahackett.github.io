@@ -144,14 +144,14 @@ title: "Podcasting"
 
 <!-- Text column -->
 <div class="featured-podcast__content">
-<p class="text-sm font-semibold tracking-wide text-gray-500 uppercase">
+<p class="text-sm font-semibold tracking-wide uppercase">
 September 10, 2025
 </p>
-<p class="mt-1 text-xs font-semibold tracking-wide text-gray-500 uppercase">
+<p class="mt-1 text-xs font-semibold tracking-wide uppercase">
 Listen to my latest podcast with the New Books Network
 </p>
 
-<p class="mt-3 text-sm leading-relaxed text-gray-800">
+<p class="mt-3 text-sm leading-relaxed">
 Most Americans support progressive taxation in principle, and want the rich to pay more. 
 But the specific tax policies that most favor are more regressive than progressive. 
 What is behind such a disconnect? 
@@ -164,7 +164,7 @@ Andrea Louise Campbell examines public opinion on taxation, exploring why what A
 differs from what they accept in practice.
 </p>
 
-<p class="mt-3 text-sm leading-relaxed text-gray-800">
+<p class="mt-3 text-sm leading-relaxed">
 Campbell shows that since the federal income tax began a century ago, 
 the rich have fought for lower taxes through reduced rates and a complicated system of tax breaks. 
 The resulting complexity leaves the public confused about who benefits from the convoluted tax code, 
@@ -191,7 +191,7 @@ alt="Taxation and Resentment cover"
 
 
 <div class="mt-12">
-  <p class="text-sm font-semibold tracking-wide text-gray-500 uppercase">
+  <p class="text-sm font-semibold tracking-wide uppercase">
     Previous episodes
   </p>
   <div class="mt-1 mb-4 border-b border-gray-300 w-full"></div>
@@ -214,7 +214,7 @@ alt="Taxation and Resentment cover"
       </div>
     </a>
     <h3 class="mt-4 text-base font-semibold leading-snug">Developing Scholars</h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       Interview with Domingo Morel (19 Nov 2024)
     </p>
     <a
@@ -241,7 +241,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       The Political Development of American Debt Relief
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       Interview with Thurston &amp; Zackin (25 Jun 2024)
     </p>
     <a
@@ -270,7 +270,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       America's New Racial Battle Lines
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       Interview with Smith &amp; King (21 Apr 2024)
     </p>
     <a
@@ -300,7 +300,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       When Bad Things Happen to Privileged People
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       An interview with author Dara Z. Strolovitch (October 31, 2023)
     </p>
     <a
@@ -330,7 +330,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       The Advantage of Disadvantage
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       An interview with author LaGina Gause (May 6, 2022)
     </p>
     <a
@@ -361,7 +361,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       Movements and Parties
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       An interview with author Sidney G. Tarrow (April 25, 2022)
     </p>
     <a
@@ -390,7 +390,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       Why Bad Policies Spread (And Good Ones Don't)
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       An interview with author Craig Volden (February 21, 2022)
     </p>
     <a
@@ -419,7 +419,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       The Judicial Tug of War
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       An interview with authors Maya Sen and Adam Bonica (November 17, 2021)
     </p>
     <a
@@ -448,7 +448,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       The Limits of Party
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       An interview with authors Frances E. Lee and James M. Curry (October 6, 2021)
     </p>
     <a
@@ -477,7 +477,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       Race to the Bottom
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       An interview with author LaFleur Stephens-Dougan (August 23, 2021)
     </p>
     <a
@@ -506,7 +506,7 @@ alt="Taxation and Resentment cover"
     <h3 class="mt-4 text-base font-semibold leading-snug">
       Secular Surge
     </h3>
-    <p class="mt-1 text-sm text-gray-600">
+    <p class="mt-1 text-sm">
       An interview with authors David E. Campbell and Geoffrey C. Layman (August 18, 2021)
     </p>
     <a
