@@ -3,6 +3,14 @@ title: Publications
 type: landing
 cms_exclude: true
 
+cascade:
+  show_date: true       # keep the (now year-only) date
+  reading_time: false   # hide “1 min read”
+  share: false          # hide share buttons at the bottom
+  backlinks: false      # hide the Backlinks sidebar
+  show_date_updated: false
+  profile: false
+
 sections:
   - block: collection
     id: books
