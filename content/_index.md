@@ -3,6 +3,7 @@
 title: ''
 date: 2022-10-24
 type: landing
+description: 'Ursula Hackett is a Reader in Politics at Royal Holloway, University of London, specialising in the study of public policymaking and litigation in the United States, with a particular focus on religion, race, and education.'
 
 design:
   # Default section spacing
