@@ -1,5 +1,5 @@
 ---
-title: "Dilutive Drift: The Racial Impact of Low-Change Maps"
+title: "Dilutive Drift: The Racial Impact of Low-Change Redistricting"
 authors:
 - admin
 date: "2025-10-01T00:00:00Z"
