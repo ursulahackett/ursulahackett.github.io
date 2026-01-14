@@ -20,7 +20,7 @@ abstract: "As America’s racial composition shifts, states that minimize change
 tags:
 featured: false
 
-links:
+resources:
   - src: "dilutive-drift-the-racial-impact-of-low-change-redistricting.pdf"
     name: "pdf"
     title: "pdf"  
@@ -37,11 +37,11 @@ links:
 #     title: "pdf"    
 #     
 # 
-# links:
-#   - type: pdf
-#     url: pdf
-#   - type: doi
-#     url: https://doi.org/10.1111/psj.12170
+links:
+   - type: pdf
+     url: pdf
+   - type: doi
+     url: [https://doi.org/10.1111/psj.12170](https://doi.org/10.1017/S1537592725103897)
 #   - type: dataset
 #     url: "dataset"
 #   - type: code
