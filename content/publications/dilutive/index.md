@@ -2,7 +2,7 @@
 title: "Dilutive Drift: The Racial Impact of Low-Change Redistricting"
 authors:
 - admin
-date: "2025-10-01T00:00:00Z"
+date: "2026-10-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-17T00:00:00Z"
@@ -20,7 +20,7 @@ abstract: "As America’s racial composition shifts, states that minimize change
 tags:
 featured: false
 
-resources:
+links:
   - src: "dilutive-drift-the-racial-impact-of-low-change-redistricting.pdf"
     name: "pdf"
     title: "pdf"  
