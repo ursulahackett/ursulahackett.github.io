@@ -145,7 +145,7 @@ title: "Podcasting"
 <!-- Text column -->
 <div class="featured-podcast__content">
 <p class="text-sm font-semibold tracking-wide uppercase">
-September 10, 2025
+January 12, 2026
 </p>
 <p class="mt-1 text-xs font-semibold tracking-wide uppercase">
 Listen to my latest podcast with the New Books Network
@@ -174,8 +174,8 @@ Listen now
 <!-- Cover column -->
 <div class="featured-podcast__cover">
 <img
-src="tax_resentment.jpg"
-alt="Taxation and Resentment cover"
+src="adaptability_paradox.jpg"
+alt="Adaptability Paradox cover"
 >
 </div>
 
