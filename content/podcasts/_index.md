@@ -152,26 +152,19 @@ Listen to my latest podcast with the New Books Network
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
-Most Americans support progressive taxation in principle, and want the rich to pay more. 
-But the specific tax policies that most favor are more regressive than progressive. 
-What is behind such a disconnect? 
-In <a href="https://bookshop.org/a/12343/9780691137865"
+Has American democracy outstripped its constitutional accommodations? Faith in the resilience and adaptability of the US Constitution rests on a long history of finding new ways to make the system work. In   <a href="https://press.uchicago.edu/ucp/books/book/chicago/A/bo256018846.html"
 target="_blank" rel="noopener"
 class="font-semibold hover:underline">
-Taxation and Resentment: Race, Party, and Class in American Tax Attitudes
-</a> (Princeton UP, 2025), 
-Andrea Louise Campbell examines public opinion on taxation, exploring why what Americans favor in principle 
-differs from what they accept in practice.
+The Adaptability Paradox: Political Inclusion and Constitutional Resilience
+</a> (University of Chicago Press, 2025), 
+Stephen Skowronek examines the rearrangements that regenerated the American government in the past and brings that experience to bear on our current predicament. He shows how a constitution framed in writing some 230 years ago can run into serious difficulties directly related to its long and impressive history of adaptation.
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
-Campbell shows that since the federal income tax began a century ago, 
-the rich have fought for lower taxes through reduced rates and a complicated system of tax breaks. 
-The resulting complexity leaves the public confused about who benefits from the convoluted tax code, 
-and leads to tax preferences that are driven by factors other than principles or interests.
+Skowronek connects questions about the Constitution’s adaptability to the challenges of democratization. Rather than being liberated by this unbound Constitution, the American people now appear entrapped by it. Is it possible that the development of American democracy has exhausted the adaptive capacities of the Constitution? A timely reminder that constitutional democracies do not survive on faith alone, The Adaptability Paradox is a sober appraisal of the unfamiliar ground on which we now tread.
 </p>
 
-<a href="https://newbooksnetwork.com/taxation-and-resentment"
+<a href="https://newbooksnetwork.com/the-adaptability-paradox-2"
 target="_blank" rel="noopener"
 class="inline-block mt-4 btn btn-primary">
 Listen now
@@ -201,6 +194,31 @@ alt="Taxation and Resentment cover"
 <div class="podcast-wrapper not-prose">
 
 <div class="podcast-grid not-prose">
+
+  <!-- Start podcast chunk -->
+  <div class="podcast-card not-prose">
+    <a href="https://newbooksnetwork.com/taxation-and-resentment" target="_blank" rel="noopener">
+      <div class="cover-wrapper">
+      <img
+        src="tax_resentment.jpg"
+        alt="Taxation Resentment cover"
+        class="shadow-lg"
+      >
+      </div>
+    </a>
+    <h3 class="mt-4 text-base font-semibold leading-snug">Taxation and Resentment</h3>
+    <p class="mt-1 text-sm">
+      Interview with Andrea Louise Campbell (10 Sep 2025)
+    </p>
+    <a
+      href="https://newbooksnetwork.com/taxation-and-resentment"
+      target="_blank"
+      rel="noopener"
+      class="btn btn-primary mt-3"
+    >
+      Listen here
+    </a>
+  </div>
 
   <!-- Start podcast chunk -->
   <div class="podcast-card not-prose">
