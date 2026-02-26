@@ -162,7 +162,7 @@ Jamila Michener and Mallory SoRelle show how civil legal problems, and the insti
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
-While legal representation offers vital protections, increased access to justice through an ever-growing supply of lawyers does not address the structural problems that generate demand for lawyers in the first place. Looking at cases involving unfair evictions and substandard housing, Michener and SoRelle demonstrate how community groups such as tenants’ unions can fill this justice gap and provide the means to build political power that transforms the conditions that create precarity. Drawing on eye-opening qualitative evidence and a wealth of historical and survey data, Uncivil Democracy explains why collective organizing holds the greatest promise for altering the systems that create civil legal problems and exercising the political power necessary for meaningful change.
+
 </p>
 
 <a href="https://newbooksnetwork.com/uncivil-democracy-2"
