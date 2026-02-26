@@ -145,23 +145,24 @@ title: "Podcasting"
 <!-- Text column -->
 <div class="featured-podcast__content">
 <p class="text-sm font-semibold tracking-wide uppercase">
-January 12, 2026
+February 26, 2026
 </p>
 <p class="mt-1 text-xs font-semibold tracking-wide uppercase">
 Listen to my latest podcast with the New Books Network
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
-Has American democracy outstripped its constitutional accommodations? Faith in the resilience and adaptability of the US Constitution rests on a long history of finding new ways to make the system work. In   <a href="https://press.uchicago.edu/ucp/books/book/chicago/A/bo256018846.html"
+Each year, as many as 250 million Americans face civil legal problems like eviction, debt collection, and substandard housing. These problems are disproportionately shouldered by racially and economically marginalized people, particularly women of color. Civil courts and legal aid organizations are supposed to protect their rights, yet more than 90 percent of low-income people receive inadequate or no legal assistance. Instead, access to justice is reserved for those who can afford its high price. In
+<a href="https://press.princeton.edu/books/hardcover/9780691264462/uncivil-democracy?srsltid=AfmBOooo06QjVgXGQkXuJqhWgfMifRefgE9mR3pB02KLj12GfXUyoweP"
 target="_blank" rel="noopener"
 class="font-semibold hover:underline">
-The Adaptability Paradox: Political Inclusion and Constitutional Resilience
-</a> (University of Chicago Press, 2025), 
-Stephen Skowronek examines the rearrangements that regenerated the American government in the past and brings that experience to bear on our current predicament. He shows how a constitution framed in writing some 230 years ago can run into serious difficulties directly related to its long and impressive history of adaptation.
+Uncivil Democracy: How Access to Justice Shapes Political Power
+</a> (Princeton University Press, 2026), 
+Jamila Michener and Mallory SoRelle show how civil legal problems, and the institutions meant to address them, greatly erode trust in the legal system among marginalized communities, undermining their broader sense of democratic citizenship and political standing.
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
-Skowronek connects questions about the Constitution’s adaptability to the challenges of democratization. Rather than being liberated by this unbound Constitution, the American people now appear entrapped by it. Is it possible that the development of American democracy has exhausted the adaptive capacities of the Constitution? A timely reminder that constitutional democracies do not survive on faith alone, The Adaptability Paradox is a sober appraisal of the unfamiliar ground on which we now tread.
+While legal representation offers vital protections, increased access to justice through an ever-growing supply of lawyers does not address the structural problems that generate demand for lawyers in the first place. Looking at cases involving unfair evictions and substandard housing, Michener and SoRelle demonstrate how community groups such as tenants’ unions can fill this justice gap and provide the means to build political power that transforms the conditions that create precarity. Drawing on eye-opening qualitative evidence and a wealth of historical and survey data, Uncivil Democracy explains why collective organizing holds the greatest promise for altering the systems that create civil legal problems and exercising the political power necessary for meaningful change.
 </p>
 
 <a href="https://newbooksnetwork.com/the-adaptability-paradox-2"
@@ -174,8 +175,8 @@ Listen now
 <!-- Cover column -->
 <div class="featured-podcast__cover">
 <img
-src="adaptability_paradox.jpg"
-alt="Adaptability Paradox cover"
+src="uncivildemocracy.jpg"
+alt="Uncivil Democracy cover"
 >
 </div>
 
@@ -195,6 +196,31 @@ alt="Adaptability Paradox cover"
 
 <div class="podcast-grid not-prose">
 
+  <!-- Start podcast chunk -->
+  <div class="podcast-card not-prose">
+    <a href="https://newbooksnetwork.com/the-adaptability-paradox-2" target="_blank" rel="noopener">
+      <div class="cover-wrapper">
+      <img
+        src="adaptability_paradox.jpg"
+        alt="Adaptability Paradox cover"
+        class="shadow-lg"
+      >
+      </div>
+    </a>
+    <h3 class="mt-4 text-base font-semibold leading-snug">Uncivil Democracy</h3>
+    <p class="mt-1 text-sm">
+      Interview with Stephen Skowronek (12 Jan 2026)
+    </p>
+    <a
+      href="https://newbooksnetwork.com/the-adaptability-paradox-2"
+      target="_blank"
+      rel="noopener"
+      class="btn btn-primary mt-3"
+    >
+      Listen here
+    </a>
+  </div>
+  
   <!-- Start podcast chunk -->
   <div class="podcast-card not-prose">
     <a href="https://newbooksnetwork.com/taxation-and-resentment" target="_blank" rel="noopener">
