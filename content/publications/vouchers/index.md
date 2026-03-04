@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2020-04-01T00:00:00Z"
 
-publication: "*Cambridge University Press*"
+publication: "*Cambridge University Press* Winner of the Richard E. Neustadt Book Prize, American Politics Group, Political Studies Association (2022); Winner of the Education Politics and Policy Best Book Award, American Political Science Association (2021)"
 
 
 # Schedule page publish date (NOT publication's date).
