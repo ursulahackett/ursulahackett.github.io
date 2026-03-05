@@ -31,16 +31,16 @@ title: CV
 </style>
 
 <div class="cv-embed">
-  <object data="hackett_cv.pdf#navpanes=0"
+  <object data="CV_updated_March_2026.pdf#navpanes=0"
           type="application/pdf"
           width="100%"
           height="600px">
-    <embed src="hackett_cv.pdf">
+    <embed src="CV_updated_March_2026.pdf">
       <p>This browser does not support PDFs. Please download the PDF to view it:
-        <a href="hackett_cv.pdf">Download PDF</a>.
+        <a href="CV_updated_March_2026.pdf">Download PDF</a>.
       </p>
     </embed>
   </object>
 </div>
 
-<p><a href="hackett_cv.pdf" target="_blank" rel="noopener">Download CV</a></p>
+<p><a href="CV_updated_March_2026.pdf" target="_blank" rel="noopener">Download CV</a></p>
