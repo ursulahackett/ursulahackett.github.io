@@ -145,20 +145,20 @@ title: "Podcasting"
 <!-- Text column -->
 <div class="featured-podcast__content">
 <p class="text-sm font-semibold tracking-wide uppercase">
-February 26, 2026
+March 14, 2026
 </p>
 <p class="mt-1 text-xs font-semibold tracking-wide uppercase">
 Listen to my latest podcast with the New Books Network
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
-Each year, as many as 250 million Americans face civil legal problems like eviction, debt collection, and substandard housing. These problems are disproportionately shouldered by racially and economically marginalized people, particularly women of color. Civil courts and legal aid organizations are supposed to protect their rights, yet more than 90 percent of low-income people receive inadequate or no legal assistance. Instead, access to justice is reserved for those who can afford its high price. In
-<a href="https://press.princeton.edu/books/hardcover/9780691264462/uncivil-democracy?srsltid=AfmBOooo06QjVgXGQkXuJqhWgfMifRefgE9mR3pB02KLj12GfXUyoweP"
+Why have Americans living in different places come to experience politics as a battle between “us” and “them”?  In
+<a href="https://press.princeton.edu/books/hardcover/9780691264387/rural-versus-urban?srsltid=AfmBOoozl4nKQweCOHNYwhEoBV7zmBhih8ZwPfy7O4QTGYqgtXU-M3OZ"
 target="_blank" rel="noopener"
 class="font-semibold hover:underline">
-Uncivil Democracy: How Access to Justice Shapes Political Power
-</a> (Princeton University Press, 2026), 
-Jamila Michener and Mallory SoRelle show how civil legal problems, and the institutions meant to address them, greatly erode trust in the legal system among marginalized communities, undermining their broader sense of democratic citizenship and political standing.
+Rural Versus Urban: The Growing Divide That Threatens Democracy
+</a> (Princeton University Press, 2025), 
+Suzanne Mettler and Trevor Brown argue that political polarization is not just about red states and blue states, or coastal elites who alienate those in fly-over country. Instead, polarization permeates every region and every state—and has become organized through a pernicious rural-urban division. Mettler and Brown explain the evolution of this gulf across five decades, charting political trends in both places. Drawing on data on individuals, communities, and members of Congress, as well as interviews with local party leaders and former elected officials, they show how the divide emerged and why it poses a threat to democracy.
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
@@ -175,8 +175,8 @@ Listen now
 <!-- Cover column -->
 <div class="featured-podcast__cover">
 <img
-src="uncivildemocracy.jpg"
-alt="Uncivil Democracy cover"
+src="rural_urban.jpg"
+alt="Rural Urban cover"
 >
 </div>
 
@@ -195,6 +195,31 @@ alt="Uncivil Democracy cover"
 <div class="podcast-wrapper not-prose">
 
 <div class="podcast-grid not-prose">
+
+  <!-- Start podcast chunk -->
+  <div class="podcast-card not-prose">
+    <a href="https://newbooksnetwork.com/uncivil-democracy-2" target="_blank" rel="noopener">
+      <div class="cover-wrapper">
+      <img
+        src="uncivildemocracy.jpg"
+        alt="Uncivil Democracy cover"
+        class="shadow-lg"
+      >
+      </div>
+    </a>
+    <h3 class="mt-4 text-base font-semibold leading-snug">Uncivil Democracy</h3>
+    <p class="mt-1 text-sm">
+      Interview with Jamila Michener and Mallory SoRelle (26 Feb 2026)
+    </p>
+    <a
+      href="https://newbooksnetwork.com/uncivil-democracy-2"
+      target="_blank"
+      rel="noopener"
+      class="btn btn-primary mt-3"
+    >
+      Listen here
+    </a>
+  </div>
 
   <!-- Start podcast chunk -->
   <div class="podcast-card not-prose">
