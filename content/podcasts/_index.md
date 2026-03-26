@@ -145,27 +145,27 @@ title: "Podcasting"
 <!-- Text column -->
 <div class="featured-podcast__content">
 <p class="text-sm font-semibold tracking-wide uppercase">
-March 14, 2026
+March 26, 2026
 </p>
 <p class="mt-1 text-xs font-semibold tracking-wide uppercase">
 Listen to my latest podcast with the New Books Network
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
-Why have Americans living in different places come to experience politics as a battle between “us” and “them”?  In
-<a href="https://press.princeton.edu/books/hardcover/9780691264387/rural-versus-urban?srsltid=AfmBOoozl4nKQweCOHNYwhEoBV7zmBhih8ZwPfy7O4QTGYqgtXU-M3OZ"
+Why haven't fifty years of changemaking and reform fixed Congress — and what does this reveal about American democracy?  In
+<a href="https://www.press.jhu.edu/books/title/54126/stuck?srsltid=AfmBOorwqo7y5cplPeKrIVYX54uk28F3IutUumRVSgQ0ScFG1_rLjVmw"
 target="_blank" rel="noopener"
 class="font-semibold hover:underline">
-Rural Versus Urban: The Growing Divide That Threatens Democracy
-</a> (Princeton University Press, 2025), 
-Suzanne Mettler and Trevor Brown argue that political polarization is not just about red states and blue states, or coastal elites who alienate those in fly-over country. Instead, polarization permeates every region and every state—and has become organized through a pernicious rural-urban division. Mettler and Brown explain the evolution of this gulf across five decades, charting political trends in both places. Drawing on data on individuals, communities, and members of Congress, as well as interviews with local party leaders and former elected officials, they show how the divide emerged and why it poses a threat to democracy.
+Stuck: How Money, Media, and Violence Prevent Change in Congress
+</a> (Johns Hopkins University Press, 2026), 
+Maya Kornberg chronicles the efforts of congressional reformers over the last fifty years and documents the mounting forces that have kept their reforms from creating meaningful change. The "Watergate babies" of 1974, the Contract with America conservatives of 1994, and the historic 2018 class fueled by backlash to Donald Trump all represent younger, more diverse, and less entrenched members who arrived in Washington energized and idealistic. Kornberg outlines tangible reforms that could restore Congress's capacity to function and amplify the power of its newest members. At a time when Americans are losing faith in democracy's most representative institution, Stuck makes the case for how it could be saved.
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
 
 </p>
 
-<a href="https://newbooksnetwork.com/uncivil-democracy-2"
+<a href="https://newbooksnetwork.com/stuck-4"
 target="_blank" rel="noopener"
 class="inline-block mt-4 btn btn-primary">
 Listen now
@@ -175,8 +175,8 @@ Listen now
 <!-- Cover column -->
 <div class="featured-podcast__cover">
 <img
-src="rural_urban.jpg"
-alt="Rural Urban cover"
+src="stuck.jpg"
+alt="Stuck cover"
 >
 </div>
 
@@ -195,6 +195,31 @@ alt="Rural Urban cover"
 <div class="podcast-wrapper not-prose">
 
 <div class="podcast-grid not-prose">
+
+  <!-- Start podcast chunk -->
+  <div class="podcast-card not-prose">
+    <a href="https://newbooksnetwork.com/rural-versus-urban" target="_blank" rel="noopener">
+      <div class="cover-wrapper">
+      <img
+        src="rural_urban.jpg"
+        alt="Rural Versus Urban cover"
+        class="shadow-lg"
+      >
+      </div>
+    </a>
+    <h3 class="mt-4 text-base font-semibold leading-snug">Rural Versus Urban</h3>
+    <p class="mt-1 text-sm">
+      Interview with Trevor Brown (14 Mar 2026)
+    </p>
+    <a
+      href="https://newbooksnetwork.com/rural-versus-urban"
+      target="_blank"
+      rel="noopener"
+      class="btn btn-primary mt-3"
+    >
+      Listen here
+    </a>
+  </div>
 
   <!-- Start podcast chunk -->
   <div class="podcast-card not-prose">
