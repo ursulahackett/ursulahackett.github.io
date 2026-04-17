@@ -14,6 +14,8 @@ sections:
         My award-winning book *America's Voucher Politics* is out now with Cambridge University Press, and my study skills book *Brilliant Essays* is published by Bloomsbury in the Study Skills series.
         
         You can read more about *America's Voucher Politics* [here](/publications/vouchers/), listen to a New Books Network podcast about it [here](https://newbooksnetwork.com/americas-voucher-politics), watch a video about it [here](https://www.youtube.com/watch?v=OzNBMlVrN38), or order a copy [here](https://www.cambridge.org/gb/academic/subjects/politics-international-relations/american-government-politics-and-policy/americas-voucher-politics-how-elites-learned-hide-state?format=HB&isbn=9781108491419).
+
+    {{< youtube OzNBMlVrN38 >}}
         
         You can find out more about my book and video series *Brilliant Essays* [here](/essays/), and order a copy [here](https://www.macmillanihe.com/page/detail/brilliant-essays-ursula-hackett/?sf1=barcode&st1=9781352011371).
         
