@@ -20,7 +20,7 @@ sections:
         
         You can find out more about my book and video series *Brilliant Essays* [here](/essays/), and order a copy [here](https://www.macmillanihe.com/page/detail/brilliant-essays-ursula-hackett/?sf1=barcode&st1=9781352011371).
         
-        You can find a list of my publication [here](/publications/) and my CV [here](/cv/). 
+        You can find a list of my publications [here](/publications/) and my CV [here](/cv/). 
    
     design:
       columns: '1'
