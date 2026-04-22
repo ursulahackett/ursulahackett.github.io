@@ -4,7 +4,7 @@ title: "Interactive Visualisation"
 
 ## Dilutive Drift: Interactive Visual Guide
 
-This interactive visualisation explains the core dynamics of dilutive drift.
+This interactive visualisation explains the core dynamics of dilutive drift. Click the fullscreen icon (bottom right of the visualisation) for the best experience.
 
 <iframe 
 title="Your Voice and Vote Matters"
