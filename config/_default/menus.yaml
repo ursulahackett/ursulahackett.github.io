@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: /publications
     weight: 20
-  - name: Visualisation
+  - name: Dilutive Drift
     url: /visualisation/
     weight: 25
   - name: Awards
