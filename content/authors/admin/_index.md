@@ -168,7 +168,7 @@ awards:
 
 Dr Ursula Hackett is Reader in Politics at Royal Holloway, University of London. In the academic year 2023-4 she was a British Academy Mid-Career Fellow.
 
-Her award-winning book, *America's Voucher Politics: How Elites Learned to Hide the State* is out with Cambridge University Press. She has published her research in journals such as *Perspectives on Politics*, *Policy Studies Journal*, *Studies in American Political Development*, *Electoral Studies", *Presidential Studies Quarterly*, and *Politics and Religion*.
+Her award-winning book, *America's Voucher Politics: How Elites Learned to Hide the State* is out with Cambridge University Press. She has published her research in journals such as *Perspectives on Politics*, *Policy Studies Journal*, *Studies in American Political Development*, *Electoral Studies*, *Presidential Studies Quarterly*, and *Politics and Religion*.
 
 [More about me →](/about/)
 
