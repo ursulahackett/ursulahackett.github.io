@@ -2,7 +2,7 @@
 title: "District Protectionism: Public Opinion on Race, Partisanship, and Redistricting Change"
 authors:
 - admin
-date: "2026-10-01T00:00:00Z"
+date: "2026-11-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-17T00:00:00Z"
