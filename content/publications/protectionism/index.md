@@ -42,7 +42,7 @@ links:
   - type: pdf
     url: pdf
   - type: doi
-    url: 
+    url: "#"
 #   - type: dataset
 #     url: "dataset"
 #   - type: code
