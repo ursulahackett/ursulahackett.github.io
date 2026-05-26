@@ -22,7 +22,7 @@ tags:
 featured: false
 
 resources:
-  - src: "dilutive-drift-the-racial-impact-of-low-change-redistricting.pdf"
+  - src: "district_protectionism_accepted_version.pdf"
     name: "pdf"
     title: "pdf"  
 
