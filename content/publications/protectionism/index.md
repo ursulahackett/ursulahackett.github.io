@@ -40,15 +40,7 @@ resources:
 # 
 links:
   - type: pdf
-    url: pdf
-  - type: doi
-    url: "#"
-#   - type: dataset
-#     url: "dataset"
-#   - type: code
-#     url: "code"
-
-
+    url: district_protectionism_accepted_version.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
