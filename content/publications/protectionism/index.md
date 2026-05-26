@@ -1,5 +1,5 @@
 ---
-title: "Dilutive Drift: The Racial Impact of Low-Change Redistricting"
+title: "District Protectionism: Public Opinion on Race, Partisanship, and Redistricting Change"
 authors:
 - admin
 date: "2026-10-01T00:00:00Z"
@@ -12,10 +12,11 @@ publishDate: "2025-11-17T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
-publication: "*Perspectives on Politics*"
+publication: "*Electoral Studies*"
 
 
-abstract: "As America’s racial composition shifts, states that minimize changes to existing districts in successive redistricting cycles can entrench racial disparities in representation, a process I term ‘dilutive drift’. Using novel spatial measures of U.S. House district change between successive congresses, I show that packing and cracking can occur passively, not only through deliberate gerrymandering. States with long histories of racial exclusion, such as Alabama and Louisiana, make persistently fewer changes to their districts than other states. Minimal-change redistricting, I argue, can entrench unequal representation just as effectively as overt gerrymandering."
+abstract: "What do people value in redistricting? This paper presents three original survey experiments to examine public attitudes toward redistricting, including partisan gerrymandering, majority-minority districts,
+and traditional criteria such as compactness and contiguity. The experiments provide evidence consistent with an orientation I term ‘district protectionism’: a tendency to prefer minimal changes to existing districts – maintaining existing boundaries, compositions, and electoral configurations. The experiments highlight divergent views on race-conscious redistricting, with notably lower levels of support for majority-Latino districts than for majority-Black districts. Although respondents broadly reject partisan gerrymandering in the abstract, they also display significant partisan asymmetries and evidence consistent with loss aversion. As reformers seek to engage more citizens with redistricting, protectionism may interact with partisan self-interest to constrain efforts to redraw boundaries, revise partisan configurations, or expand opportunities for communities of color to elect preferred representatives."
 
 tags:
 featured: false
@@ -41,7 +42,7 @@ links:
   - type: pdf
     url: pdf
   - type: doi
-    url: https://doi.org/10.1017/S1537592725103897
+    url: 
 #   - type: dataset
 #     url: "dataset"
 #   - type: code
