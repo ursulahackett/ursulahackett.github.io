@@ -22,7 +22,7 @@ tags:
 featured: false
 
 resources:
-  - src: "district_protectionism_accepted_version.pdf"
+  - src: "Hackett_district_protectionism.pdf"
     name: "pdf"
     title: "pdf"  
 
@@ -40,7 +40,7 @@ resources:
 # 
 links:
   - type: pdf
-    url: district_protectionism_accepted_version.pdf
+    url: Hackett_district_protectionism.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
