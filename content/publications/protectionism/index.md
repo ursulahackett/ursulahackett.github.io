@@ -12,7 +12,7 @@ publishDate: "2025-12-17T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
-publication: "*Electoral Studies*"
+publication: "*Electoral Studies*, 102(103101),(2026)"
 
 
 abstract: "What do people value in redistricting? This paper presents three original survey experiments to examine public attitudes toward redistricting, including partisan gerrymandering, majority-minority districts,
