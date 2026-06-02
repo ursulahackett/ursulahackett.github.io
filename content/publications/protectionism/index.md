@@ -41,6 +41,8 @@ resources:
 links:
   - type: pdf
     url: Hackett_district_protectionism.pdf
+  - type: doi
+    url: https://doi.org/10.1016/j.electstud.2026.103101
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
