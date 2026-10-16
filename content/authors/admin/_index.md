@@ -17,18 +17,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Reader in Politics
+role: Churchill Associate Professor of U.S. Politics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Royal Holloway, University of London
+  - name: Rothermere American Institute, University of Oxford
     url: https://pure.royalholloway.ac.uk/en/persons/ursula-hackett/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:Ursula.Hackett@rhul.ac.uk'
+    url: 'mailto:Ursula.Hackett@rai.ox.ac.uk'
     label: E-mail Me
   - icon: brands/bluesky
     url: https://bsky.app/profile/uhackett.bsky.social
@@ -67,12 +67,18 @@ education:
       First Class
 
 work:
+   - position: Churchill Associate Professor of U.S. Politics
+    company_name: University of Oxford
+    company_url: 'https://www.rai.ox.ac.uk/people/ursula-hackett-0'
+    icon: ''
+    date_start: 2026-01-01
+    date_end: ''
   - position: Reader in Politics
     company_name: Royal Holloway, University of London
     company_url: 'https://pure.royalholloway.ac.uk/en/persons/ursula-hackett/'
     icon: ''
     date_start: 2022-01-01
-    date_end: ''
+    date_end: '2026-01-01'
   - position: Senior Lecturer in Politics
     company_name: Royal Holloway, University of London
     company_url: 'https://pure.royalholloway.ac.uk/en/persons/ursula-hackett/'
