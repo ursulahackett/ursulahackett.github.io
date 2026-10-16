@@ -14,16 +14,15 @@ title: Contact
 
 <strong>
 Dr Ursula Hackett<br>
-Reader in Politics<br>
-Royal Holloway, University of London<br>
+Churchill Associate Professor of U.S. Politics<br>
+University of Oxford<br>
 </strong>
 
 *Office address for correspondence*: <br>
-McCrea Building 1-06  <br>
-Department of Politics and International Relations  <br>
-Royal Holloway, University of London  <br>
-Egham  <br>
-TW20 0EX <br>
+Rothermere American Institute  <br>
+1a South Parks Road  <br>
+Oxford  <br>
+OX1 3UB <br>
 United Kingdom  <br>
 
 Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#117;&#114;&#115;&#117;&#108;&#97;&#46;&#104;&#97;&#99;&#107;&#101;&#116;&#116;&#64;&#114;&#104;&#117;&#108;&#46;&#97;&#99;&#46;&#117;&#107;">
