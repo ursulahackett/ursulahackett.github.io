@@ -67,7 +67,7 @@ education:
       First Class
 
 work:
-   - position: Churchill Associate Professor of U.S. Politics
+  - position: Churchill Associate Professor of U.S. Politics
     company_name: University of Oxford
     company_url: 'https://www.rai.ox.ac.uk/people/ursula-hackett-0'
     icon: ''
