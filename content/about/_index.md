@@ -9,7 +9,7 @@ sections:
       title: '📚 About me'
       subtitle: ''
       text: |-
-        I am a Reader in Politics at Royal Holloway, University of London. From September 1 I will be Churchill Associate Professor in U.S. Politics at the Rothermere American Institute and The Queen's College, University of Oxford. I specialise in the study of public policymaking and litigation in the United States, with a particular focus on religion, race, and education. My work fits broadly within the American Political Development (APD) tradition. I am currently working on a book on the politics of redistricting and how state legislators anticipate and seek to forestall legal challenges.
+        I am the Churchill Associate Professor in U.S. Politics at the Rothermere American Institute, University of Oxford, in association with The Queen's College. I am also an Associate Member of Nuffield College. I specialise in the study of public policymaking and litigation in the United States, with a particular focus on religion, race, and education. My work fits broadly within the American Political Development (APD) tradition. I am currently working on a book on the politics of redistricting and how state legislators anticipate and seek to forestall legal challenges, which is forthcoming with the University of Chicago Press.
         
         My award-winning book *America's Voucher Politics* is out with Cambridge University Press, and my study skills book *Brilliant Essays* is published by Bloomsbury in the Study Skills series.
         
@@ -34,7 +34,7 @@ sections:
       is_education_first: false
 ---
 
-I am a Reader in Politics at Royal Holloway, University of London. I specialise in the study of public policymaking and litigation in the United States, with a particular focus on religion, race, and education. My work fits broadly within the American Political Development (APD) tradition. I am currently working on a book on the politics of redistricting and how state legislators anticipate and seek to forestall legal challenges.
+I am the Churchill Associate Professor in U.S. Politics at the Rothermere American Institute, University of Oxford. I specialise in the study of public policymaking and litigation in the United States, with a particular focus on religion, race, and education. My work fits broadly within the American Political Development (APD) tradition. My next monograph, which is forthcoming with the University of Chicago Press, is on the politics of redistricting and how state legislators anticipate and seek to forestall legal challenges.
 
 My award-winning book *America's Voucher Politics* is out now with Cambridge University Press, and my study skills book *Brilliant Essays* is published by Bloomsbury in the Study Skills series.
 
