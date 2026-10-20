@@ -145,27 +145,27 @@ title: "Podcasting"
 <!-- Text column -->
 <div class="featured-podcast__content">
 <p class="text-sm font-semibold tracking-wide uppercase">
-March 26, 2026
+October 20, 2026
 </p>
 <p class="mt-1 text-xs font-semibold tracking-wide uppercase">
 Listen to my latest podcast with the New Books Network
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
-Why haven't fifty years of changemaking and reform fixed Congress — and what does this reveal about American democracy?  In
-<a href="https://www.press.jhu.edu/books/title/54126/stuck?srsltid=AfmBOorwqo7y5cplPeKrIVYX54uk28F3IutUumRVSgQ0ScFG1_rLjVmw"
+Who actually shapes the candidates that parties nominate?  In
+<a href="https://press.uchicago.edu/ucp/books/book/chicago/P/bo274765537.html"
 target="_blank" rel="noopener"
 class="font-semibold hover:underline">
-Stuck: How Money, Media, and Violence Prevent Change in Congress
-</a> (Johns Hopkins University Press, 2026), 
-Maya Kornberg chronicles the efforts of congressional reformers over the last fifty years and documents the mounting forces that have kept their reforms from creating meaningful change. The "Watergate babies" of 1974, the Contract with America conservatives of 1994, and the historic 2018 class fueled by backlash to Donald Trump all represent younger, more diverse, and less entrenched members who arrived in Washington energized and idealistic. Kornberg outlines tangible reforms that could restore Congress's capacity to function and amplify the power of its newest members. At a time when Americans are losing faith in democracy's most representative institution, Stuck makes the case for how it could be saved.
+Parties on the Ground: A Study of Nominations for the House of Representatives
+</a> (University of Chicago Press, 2026), 
+Kathleen Bawn, John Zaller, and colleagues study political parties and party nominations for the House of Representatives in 55 winnable open-seat nominations in the 2013-14 electoral cycle. Based on a combination of field interviews, fundraising and spending data from the Federal Election Commission, content analysis of newspaper coverage, and exit polls of voters in four contests, they argue that the most important actors in most nominations are those who supply campaign resources to some candidates and deny them to others. These "policy demanders," as the study calls them, consist mainly of standard interest group actors - business, labor, agriculture, professionals - but include faith-based activists and Tea Partiers as leading actors in some nominations. Among the study's main arguments are that policy demanders care more about their particular interests and values than general ideology, put serious effort into vetting candidates before supporting them, and often either work through local parties or coordinate among themselves. The study analyzes the competition between establishment and insurgent candidates in the Republican Party in terms of its general arguments. Progressive reformers sought the adoption of primary elections to empower voters to control the direction of their parties, but this study finds that most primary electorates pay too little attention to make use of the opportunity.
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
 
 </p>
 
-<a href="https://newbooksnetwork.com/stuck-4"
+<a href="https://newbooksnetwork.com/parties-on-the-ground"
 target="_blank" rel="noopener"
 class="inline-block mt-4 btn btn-primary">
 Listen now
@@ -175,8 +175,8 @@ Listen now
 <!-- Cover column -->
 <div class="featured-podcast__cover">
 <img
-src="stuck.jpg"
-alt="Stuck cover"
+src="parties_ground.jpg"
+alt="Parties on the Ground cover"
 >
 </div>
 
@@ -195,6 +195,31 @@ alt="Stuck cover"
 <div class="podcast-wrapper not-prose">
 
 <div class="podcast-grid not-prose">
+
+  <!-- Start podcast chunk -->
+  <div class="podcast-card not-prose">
+    <a href="https://newbooksnetwork.com/stuck-4" target="_blank" rel="noopener">
+      <div class="cover-wrapper">
+      <img
+        src="stuck.jpg"
+        alt="Stuck cover"
+        class="shadow-lg"
+      >
+      </div>
+    </a>
+    <h3 class="mt-4 text-base font-semibold leading-snug">Stuck</h3>
+    <p class="mt-1 text-sm">
+      Interview with Maya Kornburg (26 Mar 2026)
+    </p>
+    <a
+      href="https://newbooksnetwork.com/stuck-4"
+      target="_blank"
+      rel="noopener"
+      class="btn btn-primary mt-3"
+    >
+      Listen here
+    </a>
+  </div>
 
   <!-- Start podcast chunk -->
   <div class="podcast-card not-prose">
