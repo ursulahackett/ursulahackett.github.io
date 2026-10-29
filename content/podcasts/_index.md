@@ -145,27 +145,27 @@ title: "Podcasting"
 <!-- Text column -->
 <div class="featured-podcast__content">
 <p class="text-sm font-semibold tracking-wide uppercase">
-October 20, 2026
+October 28, 2026
 </p>
 <p class="mt-1 text-xs font-semibold tracking-wide uppercase">
 Listen to my latest podcast with the New Books Network
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
-Who actually shapes the candidates that parties nominate?  In
-<a href="https://press.uchicago.edu/ucp/books/book/chicago/P/bo274765537.html"
+Supposedly, local politicians are the elected representatives closest to the people they serve, but are they actually accountable to their constituents?  In
+<a href="https://press.uchicago.edu/ucp/books/book/chicago/F/bo273819903.html"
 target="_blank" rel="noopener"
 class="font-semibold hover:underline">
-Parties on the Ground: A Study of Nominations for the House of Representatives
+The Fog of Accountability: How Institutions Keep Voters from Holding Their Local Governments Accountable
 </a> (University of Chicago Press, 2026), 
-Kathleen Bawn, John Zaller, and colleagues study political parties and party nominations for the House of Representatives in 55 winnable open-seat nominations in the 2013-14 electoral cycle. Based on a combination of field interviews, fundraising and spending data from the Federal Election Commission, content analysis of newspaper coverage, and exit polls of voters in four contests, they argue that the most important actors in most nominations are those who supply campaign resources to some candidates and deny them to others. These "policy demanders," as the study calls them, consist mainly of standard interest group actors - business, labor, agriculture, professionals - but include faith-based activists and Tea Partiers as leading actors in some nominations. Progressive reformers sought the adoption of primary elections to empower voters to control the direction of their parties, but this study finds that most primary electorates pay too little attention to make use of the opportunity.
+Justin de Benedictis-Kessner shows that they are not: local elections routinely fail to punish bad politicians or reward strong performers. The Fog of Accountability argues that this is because urban politics is defined by minimally effective competition, complex institutions that confuse voters, and a lack of effective media coverage. These institutional features combine to stymie even well-intentioned voters and make accountability difficult. Fixing these problems is challenging, but, as de Benedictis-Kessner shows, change is possible if we can enable citizens to reclaim and assert their political power.
 </p>
 
 <p class="mt-3 text-sm leading-relaxed">
 
 </p>
 
-<a href="https://newbooksnetwork.com/parties-on-the-ground"
+<a href="https://newbooksnetwork.com/the-fog-of-accountability"
 target="_blank" rel="noopener"
 class="inline-block mt-4 btn btn-primary">
 Listen now
@@ -175,8 +175,8 @@ Listen now
 <!-- Cover column -->
 <div class="featured-podcast__cover">
 <img
-src="parties_ground.jpg"
-alt="Parties on the Ground cover"
+src="fog_accountability.jpg"
+alt="Fog of Accountability cover"
 >
 </div>
 
@@ -195,6 +195,32 @@ alt="Parties on the Ground cover"
 <div class="podcast-wrapper not-prose">
 
 <div class="podcast-grid not-prose">
+
+ <!-- Start podcast chunk -->
+  <div class="podcast-card not-prose">
+    <a href="https://newbooksnetwork.com/parties-on-the-ground" target="_blank" rel="noopener">
+      <div class="cover-wrapper">
+      <img
+        src="parties_ground.jpg"
+        alt="Parties on the Ground cover"
+        class="shadow-lg"
+      >
+      </div>
+    </a>
+    <h3 class="mt-4 text-base font-semibold leading-snug">Parties on the Ground</h3>
+    <p class="mt-1 text-sm">
+      Interview with Kathleen Bawn and John Zaller (20 Oct 2026)
+    </p>
+    <a
+      href="https://newbooksnetwork.com/parties-on-the-ground"
+      target="_blank"
+      rel="noopener"
+      class="btn btn-primary mt-3"
+    >
+      Listen here
+    </a>
+  </div>
+
 
   <!-- Start podcast chunk -->
   <div class="podcast-card not-prose">
